@@ -37,7 +37,7 @@ I'm on a journey to become a Full Stack Developer, blending my development skill
 
 Check out some of my favorite projects:
 
-- 🕵️‍♂️ [**IpTable-Best-Rules**](https://github.com/PietroCavaliere/Iptables-Best-Rules): A suite of security tools for ethical hacking.
+- 🕵️‍♂️ [**IpTable-Best-Rules**](https://github.com/PietroCavaliere/Iptables-Best-Rules): Enhance your server's defense with these top-tier IP table configurations.
 
 ---
 
