@@ -1,6 +1,5 @@
-####👋 Hi there! I'm Pietro Cavaliere
+## 👋 Hi there! I'm **Pietro Cavaliere**
 
----
 
 ### 💻 **Web & Backend Development**
 
